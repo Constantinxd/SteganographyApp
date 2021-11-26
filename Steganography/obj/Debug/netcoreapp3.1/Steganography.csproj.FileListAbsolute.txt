@@ -1,0 +1,87 @@
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.exe
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.deps.json
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.json
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.dev.json
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.dll
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.pdb
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csprojAssemblyReference.cache
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.Form1.resources
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.GenerateResource.cache
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfoInputs.cache
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfo.cs
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.CoreCompileInputs.cache
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.dll
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.pdb
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.genruntimeconfig.cache
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.CopyComplete
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.exe
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.deps.json
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.json
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.dev.json
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.dll
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.pdb
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csprojAssemblyReference.cache
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.Form1.resources
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.GenerateResource.cache
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfoInputs.cache
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfo.cs
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.CoreCompileInputs.cache
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.CopyComplete
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.dll
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.pdb
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.genruntimeconfig.cache
+E:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Fast Bitmap.dll
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.Properties.Resources.resources
+E:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.HelpForm.resources
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.exe
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.deps.json
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.json
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.dev.json
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.dll
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.pdb
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Fast Bitmap.dll
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csprojAssemblyReference.cache
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.Form1.resources
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.HelpForm.resources
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.Properties.Resources.resources
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.GenerateResource.cache
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfoInputs.cache
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfo.cs
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.CoreCompileInputs.cache
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.CopyComplete
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.dll
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.pdb
+D:\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.genruntimeconfig.cache
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.exe
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.deps.json
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.json
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.runtimeconfig.dev.json
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.dll
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Steganography.pdb
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\Fast Bitmap.dll
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\SAVES\9\Project\SteganographyApp\Steganography\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csprojAssemblyReference.cache
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.Form1.resources
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.HelpForm.resources
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.Properties.Resources.resources
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.GenerateResource.cache
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfoInputs.cache
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.AssemblyInfo.cs
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.CoreCompileInputs.cache
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.csproj.CopyComplete
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.dll
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.pdb
+E:\SAVES\9\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.genruntimeconfig.cache
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.HelpForm.resources
+D:\data\3 course\Coursework\Project\SteganographyApp\Steganography\obj\Debug\netcoreapp3.1\Steganography.Properties.Resources.resources

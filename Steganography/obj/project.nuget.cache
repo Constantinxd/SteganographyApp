@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0P8IckS9XnQVLkF0nPNvLf5UwqG+l/IQAtQmMVeQTTMpS8z/WDjf3oxx7D4N5yZOiWhGUCVbcTHhe6CYiR2eQ==",
+  "success": true,
+  "projectFilePath": "D:\\data\\3 course\\Coursework\\Project\\SteganographyApp\\Steganography\\Steganography.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koshc\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\koshc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\koshc\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
